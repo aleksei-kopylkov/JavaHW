@@ -10,7 +10,7 @@ import java.util.HashSet;
 
 public class HW1 {
     public static void main(String[] args) {
-        Integer [] arr = {1, 1, 2, 3, 4, 5 , 8 ,5};
+        Integer [] arr = { 1, 9, 9, 0, 2, 8, 0, 9 };
         countIt(makeASet(arr), arr);
 
     }
